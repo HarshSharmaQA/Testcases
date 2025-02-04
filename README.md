@@ -147,9 +147,9 @@ Test cases will be updated after every release or significant change to the cmsM
 
 ## 📞 **Contact**
 For any queries related to test cases or issues, please contact:
-- **QA Lead:** [Name]
-- **Email:** [email@example.com]
-- **Phone:** [Phone Number]
+- **QA :** [Harsh Sharma]
+- **Email:** [Harshsharmaqa@gmail.com]
+
 
 ---
 
